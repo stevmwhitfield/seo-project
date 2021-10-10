@@ -2,8 +2,8 @@
 
 ### **Collaborators**
 
-Steven Whitfield - _Project Lead_<br>
-Maclane Raley - _Developer_<br>
+Steven Whitfield - _Project Lead / UI/UX Design_<br>
+Maclane Raley - _HTML/CSS Developer_<br>
 Colton Paquette - _QA Engineer_
 
 ---
