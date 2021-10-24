@@ -9,7 +9,7 @@ Colton Paquette - _QA Engineer_
 ---
 
 <h2 align="center" style="font-size: 6.4rem;">Aetherium</h2>
-<h3 align="center" style="font-style: italic;">Slogan T.B.D.</h3>
+<h3 align="center" style="font-style: italic;">The purest bottled air on Earth.</h3>
 
 <br>
 
